@@ -1,0 +1,1502 @@
+[
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 1,
+        "question": "Which model of communication introduced the concept of 'noise' as a distortion element?",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Osgood-Schramm Model",
+            "Shannon-Weaver Model",
+            "Lasswell's Model",
+            "Berlo's SMCR Model"
+        ],
+        "answer": 1,
+        "explanation": "The Shannon-Weaver model, originally developed for telephone communication, was the first to formalize 'noise' as interference."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 2,
+        "question": "The Shannon-Weaver model of communication is primarily associated with which field?",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Sociology",
+            "Psychology",
+            "Mathematics/Information Theory",
+            "Political Science"
+        ],
+        "answer": 2,
+        "explanation": "Claude Shannon and Warren Weaver developed it at Bell Labs as a mathematical theory of communication."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 3,
+        "question": "Who propounded the Lasswell's formula — \"Who says What, in Which channel, to Whom, with What effect\"?",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Harold Lasswell",
+            "Wilbur Schramm",
+            "Paul Lazarsfeld",
+            "Marshall McLuhan"
+        ],
+        "answer": 0,
+        "explanation": "Harold Lasswell developed this linear model in 1948, primarily to analyze mass media effects and propaganda."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 4,
+        "question": "The concept of 'Gate-keeping' in mass communication refers to —",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Selling media space to advertisers",
+            "Filtering information before it is disseminated",
+            "Locking audience access behind a paywall",
+            "Government censorship of films"
+        ],
+        "answer": 1,
+        "explanation": "Coined by Kurt Lewin, gatekeeping is the process through which information is filtered for dissemination, whether for publication, broadcasting, or the Internet."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 5,
+        "question": "Which theory explains how media selects and emphasises certain issues to make them appear more important?",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Cultivation Theory",
+            "Agenda-Setting Theory",
+            "Spiral of Silence",
+            "Two-Step Flow Theory"
+        ],
+        "answer": 1,
+        "explanation": "Agenda-setting theory suggests that the media doesn't tell us what to think, but rather what to think about."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 6,
+        "question": "Osgood and Schramm's model of communication is best described as —",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Linear",
+            "Circular/Interactive",
+            "Mathematical",
+            "Authoritarian"
+        ],
+        "answer": 1,
+        "explanation": "This model breaks from the linear tradition by showing communication as a circular process where both parties act as sender and receiver."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 7,
+        "question": "The term 'prosumer' in digital communication refers to —",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "A professional consumer",
+            "Someone who both consumes and produces media",
+            "A public relations consumer",
+            "An algorithm that consumes data"
+        ],
+        "answer": 1,
+        "explanation": "Coined by Alvin Toffler, it reflects the modern digital reality where users read articles and simultaneously produce tweets, blogs, or videos."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 8,
+        "question": "Which of the following best describes 'intrapersonal communication'?",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Communication between two friends",
+            "A television broadcast",
+            "Communication within oneself",
+            "A group discussion"
+        ],
+        "answer": 2,
+        "explanation": "Intrapersonal communication involves internal thought processes, self-talk, and reflection."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 9,
+        "question": "The 'Two-step Flow' theory of communication was proposed by —",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "Paul Lazarsfeld and Elihu Katz",
+            "McCombs and Shaw",
+            "George Gerbner",
+            "Stuart Hall"
+        ],
+        "answer": 0,
+        "explanation": "They hypothesized that media effects are indirect, flowing first to 'opinion leaders' who then influence the wider public."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 10,
+        "question": "The concept of 'Uses and Gratifications' theory focuses on —",
+        "topic": "Introduction to Journalism & Mass Communication",
+        "options": [
+            "What media does to people",
+            "What people do with media",
+            "How media is produced",
+            "The political economy of media"
+        ],
+        "answer": 1,
+        "explanation": "This approach flips traditional effects research by assuming audiences are active and choose media to satisfy specific needs."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 11,
+        "question": "Development journalism primarily focuses on —",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Celebrity gossip and entertainment",
+            "Socio-economic progress and policy implementation",
+            "Crime and police reporting",
+            "Sports analytics"
+        ],
+        "answer": 1,
+        "explanation": "It focuses on the condition of the society, examining government policies, poverty, agriculture, and infrastructure."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 12,
+        "question": "Participatory communication model was developed in the context of —",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "First world modernization",
+            "Corporate advertising",
+            "Developing nations and community empowerment",
+            "Military broadcasting"
+        ],
+        "answer": 2,
+        "explanation": "It emerged as a critique of top-down development, emphasizing dialogue and local community involvement."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 13,
+        "question": "The 'Dominant Paradigm' of development communication is associated with which scholar?",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Paulo Freire",
+            "Everett Rogers",
+            "Noam Chomsky",
+            "Jurgen Habermas"
+        ],
+        "answer": 1,
+        "explanation": "Everett Rogers, known for Diffusion of Innovations, was a key proponent of this modernization-based paradigm."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 14,
+        "question": "Community radio in India is regulated by which body?",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "TRAI",
+            "Press Council of India",
+            "Ministry of Information and Broadcasting (MIB)",
+            "Prasar Bharati"
+        ],
+        "answer": 2,
+        "explanation": "The MIB issues licenses and establishes the policy guidelines for Community Radio Stations in India."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 15,
+        "question": "Which term describes communication strategies that empower marginalized communities to raise their own voice?",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Top-down communication",
+            "Participatory communication",
+            "Authoritarian communication",
+            "Corporate communication"
+        ],
+        "answer": 1,
+        "explanation": "Participatory models treat audiences as active agents capable of generating their own media to address local issues."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 16,
+        "question": "A key proponent of the 'Entertainment-Education' strategy in development communication was —",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Miguel Sabido",
+            "Marshall McLuhan",
+            "Stuart Hall",
+            "Walter Lippmann"
+        ],
+        "answer": 0,
+        "explanation": "Miguel Sabido pioneered the use of soap operas (telenovelas) to promote social change and family planning."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 17,
+        "question": "The New World Information and Communication Order (NWICO) was debated mainly in which decade?",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "1950s",
+            "1970s and 1980s",
+            "2000s",
+            "1930s"
+        ],
+        "answer": 1,
+        "explanation": "NWICO was heavily debated during the 1970s and 80s at UNESCO to address imbalances in global media flows."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 18,
+        "question": "Which Indian scheme uses mass media for agricultural extension and rural development?",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Kisan Call Centre / Krishi Darshan",
+            "Make in India",
+            "Digital India",
+            "Swachh Bharat"
+        ],
+        "answer": 0,
+        "explanation": "Krishi Darshan is India's longest-running television program aimed at disseminating agricultural information to rural farmers."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 19,
+        "question": "Alternative media is distinguished from mainstream media primarily by —",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Its reliance on high-budget advertising",
+            "Being non-commercial and voicing marginalized perspectives",
+            "Its use of traditional printing presses only",
+            "Being owned by the government"
+        ],
+        "answer": 1,
+        "explanation": "Alternative media challenges the dominant narrative and provides platforms for grassroots activism."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 20,
+        "question": "The MacBride Commission Report (1980) is related to —",
+        "topic": "Communication for Development & Social Change",
+        "options": [
+            "Internet regulation",
+            "Imbalances in global information flow",
+            "Television censorship",
+            "Radio spectrum allocation"
+        ],
+        "answer": 1,
+        "explanation": "Titled 'Many Voices, One World', it investigated the unequal flow of information between developed and developing nations."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 21,
+        "question": "The 'Inverted Pyramid' structure of news writing places which element first?",
+        "topic": "Reporting and Editing",
+        "options": [
+            "The background context",
+            "The climax or most important information",
+            "The reporter's opinion",
+            "A concluding summary"
+        ],
+        "answer": 1,
+        "explanation": "It starts with the most critical facts (the 5 Ws) at the top, followed by supporting details in descending order of importance."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 22,
+        "question": "In journalism, a 'beat reporter' is one who —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "Covers a specialized subject or specific location regularly",
+            "Writes opinion editorials",
+            "Edits the final newspaper layout",
+            "Reports only breaking news"
+        ],
+        "answer": 0,
+        "explanation": "If a reporter is assigned to cover specific university campus events exclusively, that is their beat."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 23,
+        "question": "The term 'embargo' in news reporting means —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "Banning a journalist from an event",
+            "A restriction on publishing a press release until a specific date and time",
+            "A tax on newspapers",
+            "Refusing to quote a source"
+        ],
+        "answer": 1,
+        "explanation": "Sources use embargos to give journalists time to write complex stories without releasing the news prematurely."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 24,
+        "question": "Which of the following best describes 'investigative journalism'?",
+        "topic": "Reporting and Editing",
+        "options": [
+            "Rewriting press releases",
+            "Reporting live from a sports event",
+            "In-depth reporting to unearth hidden facts or corruption",
+            "Writing movie reviews"
+        ],
+        "answer": 2,
+        "explanation": "It requires deep research, document analysis, and often takes months to uncover matters of public interest."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 25,
+        "question": "A 'dateline' in a news story refers to —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "The deadline for the reporter to submit the story",
+            "The location where the story was filed",
+            "The date the newspaper was founded",
+            "The headline of the article"
+        ],
+        "answer": 1,
+        "explanation": "It appears at the beginning of an article (e.g., 'NEW DELHI —') to indicate where the news was gathered."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 26,
+        "question": "Copy editing primarily involves —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "Taking photographs for the story",
+            "Checking grammar, facts, AP style, and structure",
+            "Printing the newspaper",
+            "Selling advertising space"
+        ],
+        "answer": 1,
+        "explanation": "Copy editors are the last line of defense to ensure the text is clear, accurate, and legally safe before publication."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 27,
+        "question": "What is the function of a 'sub-editor' in a newspaper?",
+        "topic": "Reporting and Editing",
+        "options": [
+            "They fund the newspaper",
+            "They format copy, write headlines, and ensure layout fits",
+            "They conduct investigative interviews",
+            "They deliver the papers"
+        ],
+        "answer": 1,
+        "explanation": "Sub-editors take the raw copy from reporters, polish it, and create engaging headlines to fit the page design."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 28,
+        "question": "News value of 'proximity' means —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "The story involves a famous person",
+            "The story happened recently",
+            "The event is physically or psychologically close to the audience",
+            "The story has a massive impact"
+        ],
+        "answer": 2,
+        "explanation": "Audiences care more about events happening in their own city or community than identical events far away."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 29,
+        "question": "'Churnalism' refers to a negative practice where journalists —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "Fabricate quotes entirely",
+            "Rewrite press releases without original reporting or verification",
+            "Bribe officials for news",
+            "Refuse to cover local news"
+        ],
+        "answer": 1,
+        "explanation": "It is a form of cheap, fast journalism that relies on churning out pre-packaged PR material as news."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 30,
+        "question": "Feature writing differs from news writing in that —",
+        "topic": "Reporting and Editing",
+        "options": [
+            "It is completely fictional",
+            "It is more descriptive, focuses on human interest, and is less time-bound",
+            "It must use the inverted pyramid",
+            "It does not require facts"
+        ],
+        "answer": 1,
+        "explanation": "Features explore the 'why' and 'how' with a narrative style, rather than just the immediate facts."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 31,
+        "question": "AIDA model in advertising stands for —",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Attention, Interest, Desire, Action",
+            "Awareness, Integration, Demand, Action",
+            "Analysis, Interest, Distribution, Audience",
+            "Advertising, Information, Data, Analysis"
+        ],
+        "answer": 0,
+        "explanation": "It represents the psychological steps a consumer goes through during the purchasing process."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 32,
+        "question": "What is meant by 'reach' in media planning?",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "How many times a person sees an ad",
+            "The total number of different people exposed to an ad campaign at least once",
+            "The geographical distance a radio signal travels",
+            "The cost of the advertisement"
+        ],
+        "answer": 1,
+        "explanation": "Reach measures the breadth of an audience, whereas 'frequency' measures how often they see it."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 33,
+        "question": "The concept of 'Unique Selling Proposition' (USP) was introduced by —",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "David Ogilvy",
+            "Rosser Reeves",
+            "Leo Burnett",
+            "Philip Kotler"
+        ],
+        "answer": 1,
+        "explanation": "Reeves believed advertising must offer a specific, unique benefit that competitors cannot or do not offer."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 34,
+        "question": "Which type of advertising appeals primarily to emotions?",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Rational appeal",
+            "Emotional appeal",
+            "Informational appeal",
+            "B2B advertising"
+        ],
+        "answer": 1,
+        "explanation": "Emotional appeals use feelings like happiness, fear, or nostalgia rather than logic or product specifications."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 35,
+        "question": "IMC stands for — and what does it involve?",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Internal Marketing Control; managing staff",
+            "Integrated Marketing Communications; aligning all brand messages across platforms",
+            "International Media Corporation; global news",
+            "Internet Marketing Campaigns; digital ads only"
+        ],
+        "answer": 1,
+        "explanation": "IMC ensures that PR, advertising, social media, and direct marketing all speak with one consistent brand voice."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 36,
+        "question": "The Advertising Standards Council of India (ASCI) was established in which year?",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "1975",
+            "1985",
+            "1995",
+            "2005"
+        ],
+        "answer": 1,
+        "explanation": "Established in 1985, ASCI is a voluntary self-regulatory council committed to protecting consumer interests."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 37,
+        "question": "Brand positioning refers to —",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "The physical location of a billboard",
+            "Creating a distinct image or identity of the product in the consumer's mind",
+            "Pricing the product higher than competitors",
+            "The shelf placement in a supermarket"
+        ],
+        "answer": 1,
+        "explanation": "Positioning is how a brand distinguishes itself from competitors in the psychological perception of the target market."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 38,
+        "question": "'Native advertising' is defined as advertising that —",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Promotes local, indigenous products",
+            "Matches the form and function of the platform upon which it appears",
+            "Is strictly printed in newspapers",
+            "Is free of charge"
+        ],
+        "answer": 1,
+        "explanation": "Native ads blend in with the surrounding editorial content, like a sponsored article on a news website."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 39,
+        "question": "The '4 Ps of Marketing' are —",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Product, Price, Place, Promotion",
+            "People, Process, Public, Press",
+            "Print, Production, Placement, PR",
+            "Packaging, Pricing, Planning, Purchasing"
+        ],
+        "answer": 0,
+        "explanation": "First proposed by E. Jerome McCarthy, these represent the foundational marketing mix."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 40,
+        "question": "Which of the following is NOT a function of advertising?",
+        "topic": "Advertising & Marketing Communication",
+        "options": [
+            "Creating brand awareness",
+            "Dictating independent editorial policy",
+            "Persuading consumers to buy",
+            "Reminding audiences about a product"
+        ],
+        "answer": 1,
+        "explanation": "While advertising supports media financially, it fundamentally should not dictate independent journalistic or editorial policies."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 41,
+        "question": "The definition of PR as \"doing good and getting credit for it\" best reflects the general aim of which profession?",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Investigative Journalism",
+            "Public Relations",
+            "Direct Sales",
+            "Media Buying"
+        ],
+        "answer": 1,
+        "explanation": "This classic definition highlights PR's dual role: advising good corporate behavior and communicating it to build reputation."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 42,
+        "question": "Grunig and Hunt's four models of PR include all EXCEPT —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Press Agentry",
+            "Public Information",
+            "Two-way Asymmetric",
+            "One-way Manipulative"
+        ],
+        "answer": 3,
+        "explanation": "The fourth model is 'Two-way Symmetric', which focuses on mutual understanding rather than manipulation."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 43,
+        "question": "A press release is primarily a tool of —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Internal communication",
+            "Media relations",
+            "Financial accounting",
+            "Consumer advertising"
+        ],
+        "answer": 1,
+        "explanation": "It is an official statement sent to journalists to generate news coverage."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 44,
+        "question": "Crisis communication management during a PR emergency involves —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Ignoring the press completely",
+            "Mitigating damage to an organization's reputation with timely, accurate information",
+            "Deleting all social media accounts",
+            "Threatening journalists"
+        ],
+        "answer": 1,
+        "explanation": "Effective crisis PR requires transparency, taking responsibility, and communicating corrective actions."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 45,
+        "question": "'Spin doctoring' in PR refers to —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Organizing charity events",
+            "Presenting information in a highly biased or deceptive way to favor a client",
+            "Writing internal newsletters",
+            "Analyzing media metrics"
+        ],
+        "answer": 1,
+        "explanation": "It is a pejorative term for PR practitioners who twist facts to manipulate public perception."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 46,
+        "question": "Corporate Social Responsibility (CSR) communication is linked to which PR function?",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Crisis management",
+            "Community relations and corporate philanthropy",
+            "Financial relations",
+            "Employee relations"
+        ],
+        "answer": 1,
+        "explanation": "CSR involves an organization's ethical initiatives to give back to the community and environment."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 47,
+        "question": "What is the purpose of a 'backgrounder' in public relations?",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "To demand a retraction from a newspaper",
+            "To provide in-depth historical context and details about an issue or organization",
+            "To invite press to an event",
+            "To run a promotional contest"
+        ],
+        "answer": 1,
+        "explanation": "It supplements a press release by giving journalists deeper context to help them write a more informed story."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 48,
+        "question": "Lobbying as a PR activity is directed at —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Consumers",
+            "Legislators and government officials",
+            "Shareholders",
+            "Competitors"
+        ],
+        "answer": 1,
+        "explanation": "Lobbying involves advocating for an organization's interests to influence government policy or legislation."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 49,
+        "question": "The PESO model in PR stands for —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Public, Employees, Shareholders, Owners",
+            "Paid, Earned, Shared, Owned media",
+            "Print, Electronic, Social, Outdoor media",
+            "Planning, Execution, Strategy, Objectives"
+        ],
+        "answer": 1,
+        "explanation": "It is a strategy framework combining Paid ads, Earned PR, Shared social, and Owned web properties."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 50,
+        "question": "Internal communication in an organisation is primarily targeted at —",
+        "topic": "Public Relations & Corporate Communication",
+        "options": [
+            "Customers",
+            "Employees and staff",
+            "Government regulators",
+            "News media"
+        ],
+        "answer": 1,
+        "explanation": "Internal PR builds morale, shares company goals, and keeps employees informed."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 51,
+        "question": "Freedom of speech and expression in India is enshrined under which Article of the Constitution?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Article 14",
+            "Article 19(1)(a)",
+            "Article 21",
+            "Article 32"
+        ],
+        "answer": 1,
+        "explanation": "While freedom of the press is not explicitly written, it is legally implied as part of the broader Article 19(1)(a)."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 52,
+        "question": "The Right to Information Act was enacted in India in which year?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "2001",
+            "2005",
+            "2009",
+            "2014"
+        ],
+        "answer": 1,
+        "explanation": "The RTI Act of 2005 mandates timely response to citizen requests for government information."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 53,
+        "question": "Which Indian law deals with obscenity in print media?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Section 292 of the IPC and Indecent Representation of Women Act",
+            "Official Secrets Act",
+            "Prasar Bharati Act",
+            "Working Journalists Act"
+        ],
+        "answer": 0,
+        "explanation": "Section 292 criminalizes the sale and distribution of obscene materials, supported by specific acts protecting women."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 54,
+        "question": "Press Council of India was established under which Act?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Press and Registration of Books Act",
+            "Press Council Act, 1978",
+            "Cable TV Networks Act",
+            "Information Technology Act"
+        ],
+        "answer": 1,
+        "explanation": "It acts as a watchdog to preserve press freedom and maintain journalistic standards in print media."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 55,
+        "question": "Defamation in media law can be of two types —",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Libel (written) and Slander (spoken)",
+            "Civil and Criminal only",
+            "Direct and Indirect",
+            "Public and Private"
+        ],
+        "answer": 0,
+        "explanation": "Libel refers to defamatory statements in a permanent form (print/broadcast), while slander is transient/spoken."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 56,
+        "question": "Section 66A of the IT Act 2000 was struck down by the Supreme Court in which landmark case?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Maneka Gandhi v. Union of India",
+            "Shreya Singhal v. Union of India",
+            "K.S. Puttaswamy v. Union of India",
+            "Romesh Thappar v. State of Madras"
+        ],
+        "answer": 1,
+        "explanation": "In 2015, the SC struck down 66A, ruling it was unconstitutional and violated the freedom of speech online."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 57,
+        "question": "Contempt of Court in media refers to —",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Reporting on a trial",
+            "Disrespecting the authority of a court or prejudicing a fair trial",
+            "Publishing crime statistics",
+            "Interviewing lawyers"
+        ],
+        "answer": 1,
+        "explanation": "It includes 'scandalizing the court' or publishing material that interferes with the administration of justice."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 58,
+        "question": "The concept of 'prior restraint' in press freedom means —",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Self-censorship by editors",
+            "Government censorship imposed before expression takes place",
+            "Defamation lawsuits filed after publication",
+            "Denying access to public records"
+        ],
+        "answer": 1,
+        "explanation": "Prior restraint prevents material from being heard or distributed at all, which is heavily restricted in democracies."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 59,
+        "question": "Which body regulates content on Indian television channels?",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "Press Council of India",
+            "News Broadcasting & Digital Standards Authority (NBDSA)",
+            "Censor Board",
+            "Supreme Court"
+        ],
+        "answer": 1,
+        "explanation": "NBDSA (formerly NBSA) is an independent body set up by the News Broadcasters Association for self-regulation."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 60,
+        "question": "The principle of 'fair comment' as a defence in defamation applies when —",
+        "topic": "Media Laws and Ethics",
+        "options": [
+            "The statement is completely false but entertaining",
+            "It is an expression of opinion based on true facts made in the public interest",
+            "The statement is made anonymously",
+            "The defamed person is a private citizen"
+        ],
+        "answer": 1,
+        "explanation": "Fair comment protects critics, reviewers, and columnists as long as their opinion is based on factual truths."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 61,
+        "question": "Media convergence refers to —",
+        "topic": "Media Management & Production",
+        "options": [
+            "The separation of print and digital newsrooms",
+            "The merging of previously distinct media technologies and platforms",
+            "Government control over all media",
+            "Reducing the number of journalists"
+        ],
+        "answer": 1,
+        "explanation": "Convergence is driven by digitalization, allowing text, audio, and video to be delivered over the same network."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 62,
+        "question": "Cross-media ownership is a concern in media studies because —",
+        "topic": "Media Management & Production",
+        "options": [
+            "It makes media too cheap to consume",
+            "It concentrates media power and reduces the diversity of voices and opinions",
+            "It slows down internet speeds",
+            "It prevents advertising"
+        ],
+        "answer": 1,
+        "explanation": "When one corporation owns newspapers, TV stations, and radio networks, it can monopolize the public narrative."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 63,
+        "question": "In TV production, a 'floor manager' primarily coordinates —",
+        "topic": "Media Management & Production",
+        "options": [
+            "The studio floor activities and communication between the director and talent",
+            "The accounting department",
+            "Writing the script",
+            "Selling commercial breaks"
+        ],
+        "answer": 0,
+        "explanation": "The floor manager is the director's eyes and ears on the studio floor, cueing anchors and managing sets."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 64,
+        "question": "The ABC (Audit Bureau of Circulations) measures —",
+        "topic": "Media Management & Production",
+        "options": [
+            "Television viewership",
+            "Newspaper and magazine verified circulation figures",
+            "Website traffic",
+            "Radio listenership"
+        ],
+        "answer": 1,
+        "explanation": "ABC provides independent, verified metrics on how many copies a print publication actually sells."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 65,
+        "question": "TAM (Television Audience Measurement) or BARC uses which methodology?",
+        "topic": "Media Management & Production",
+        "options": [
+            "Telephone surveys",
+            "People meters installed in sample households",
+            "Counting cable subscriptions",
+            "Monitoring Twitter hashtags"
+        ],
+        "answer": 1,
+        "explanation": "BARC installs specialized set-top box meters in panel households to electronically track viewing habits."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 66,
+        "question": "Which of the following is an example of horizontal integration in media industry?",
+        "topic": "Media Management & Production",
+        "options": [
+            "A film studio buying a cinema chain",
+            "A newspaper company buying another newspaper company",
+            "A TV network buying a logging company for paper",
+            "A radio station starting a website"
+        ],
+        "answer": 1,
+        "explanation": "Horizontal integration occurs when a company acquires competitors in the same sector to expand market share."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 67,
+        "question": "The term 'paywall' in digital media refers to —",
+        "topic": "Media Management & Production",
+        "options": [
+            "Paying journalists for stories",
+            "Restricting access to web content unless the user pays a subscription",
+            "A firewall protecting against hackers",
+            "Bribing sources for information"
+        ],
+        "answer": 1,
+        "explanation": "It is a monetization strategy used by publications like The New York Times to generate direct reader revenue."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 68,
+        "question": "A 'storyboard' in media production is used for —",
+        "topic": "Media Management & Production",
+        "options": [
+            "Writing news articles",
+            "Visually planning out shots and scenes before filming",
+            "Tracking financial budgets",
+            "Recording audio interviews"
+        ],
+        "answer": 1,
+        "explanation": "It is a sequence of drawings representing the camera shots planned for a film or commercial."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 69,
+        "question": "News agency that supplies syndicated content to multiple newspapers is an example of —",
+        "topic": "Media Management & Production",
+        "options": [
+            "A wire service like PTI or Reuters",
+            "A public relations firm",
+            "An advertising agency",
+            "A regulatory body"
+        ],
+        "answer": 0,
+        "explanation": "Wire services gather hard news globally and sell it to local publications that cannot afford international bureaus."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 70,
+        "question": "Which organisation in India issues certificates for films?",
+        "topic": "Media Management & Production",
+        "options": [
+            "Ministry of Culture",
+            "Central Board of Film Certification (CBFC)",
+            "Prasar Bharati",
+            "Film and Television Institute of India"
+        ],
+        "answer": 1,
+        "explanation": "The CBFC (often called the Censor Board) grades films (U, U/A, A) for public exhibition."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 71,
+        "question": "The term 'Web 2.0' is associated with the rise of —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Static HTML pages",
+            "User-generated content, interactivity, and social media",
+            "The dark web",
+            "Print-to-digital conversion"
+        ],
+        "answer": 1,
+        "explanation": "Unlike the read-only Web 1.0, Web 2.0 allows users to interact, collaborate, and create content."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 72,
+        "question": "Citizen journalism primarily operates through which platforms?",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "State-owned television",
+            "Print newspapers",
+            "Social media, blogs, and independent digital platforms",
+            "Radio broadcasts"
+        ],
+        "answer": 2,
+        "explanation": "Equipped with smartphones, ordinary citizens bypass traditional gatekeepers to publish news directly online."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 73,
+        "question": "The phenomenon of 'filter bubble' in digital media was described by —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Tim Berners-Lee",
+            "Eli Pariser",
+            "Mark Zuckerberg",
+            "Marshall McLuhan"
+        ],
+        "answer": 1,
+        "explanation": "Pariser coined it to describe how algorithms isolate users in intellectual silos based on their past search history."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 74,
+        "question": "'Fake news' in digital media most directly challenges which journalistic principle?",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Speed of delivery",
+            "Accuracy, verification, and truthfulness",
+            "Entertainment value",
+            "Profitability"
+        ],
+        "answer": 1,
+        "explanation": "Disinformation thrives on social media, actively undermining the core journalistic tenets of fact-checking and truth."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 75,
+        "question": "OTT platforms in India are regulated under which set of rules?",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "The Cinematograph Act",
+            "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+            "Press Council Act",
+            "Cable TV Networks Act"
+        ],
+        "answer": 1,
+        "explanation": "These recent rules mandate a three-tier grievance redressal mechanism for OTT platforms like Netflix and Amazon Prime."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 76,
+        "question": "Algorithmic curation of news content raises concerns about —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Slow loading speeds",
+            "Echo chambers, lack of diverse viewpoints, and algorithmic bias",
+            "Excessive paper waste",
+            "High subscription costs"
+        ],
+        "answer": 1,
+        "explanation": "When AI decides what news you see, it often prioritizes engagement over factual diversity, polarizing societies."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 77,
+        "question": "Deepfake technology poses which specific threat to journalism?",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "It creates highly realistic but entirely fabricated audio and video of real people",
+            "It steals passwords",
+            "It deletes archives",
+            "It prints fake newspapers"
+        ],
+        "answer": 0,
+        "explanation": "Using deep learning AI, deepfakes make verification incredibly difficult, threatening the authenticity of visual evidence."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 78,
+        "question": "Data journalism involves —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Writing about computer hardware",
+            "Analyzing and visualizing large datasets to uncover and tell news stories",
+            "Protecting servers from hackers",
+            "Typing articles quickly"
+        ],
+        "answer": 1,
+        "explanation": "It combines traditional reporting with data science to find narratives hidden in spreadsheets and public records."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 79,
+        "question": "'Podcast' is a form of media delivery that primarily uses —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Live television feeds",
+            "Digital audio files available for on-demand downloading or streaming",
+            "Print newsletters",
+            "Virtual reality headsets"
+        ],
+        "answer": 1,
+        "explanation": "Combining 'iPod' and 'broadcast', it revolutionized audio by allowing asynchronous, niche listening."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 80,
+        "question": "The term 'viral content' in digital media means content that —",
+        "topic": "ICT and New/Digital Media",
+        "options": [
+            "Contains a computer virus",
+            "Spreads rapidly and widely from user to user through social sharing",
+            "Is strictly educational",
+            "Is banned by the government"
+        ],
+        "answer": 1,
+        "explanation": "Like a biological virus, it achieves exponential reach through organic sharing rather than paid distribution."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 81,
+        "question": "Content analysis as a research method in media studies is primarily used to —",
+        "topic": "Media Research Methods",
+        "options": [
+            "Interview audiences",
+            "Systematically and quantitatively analyze the manifest content of media messages",
+            "Test new broadcasting equipment",
+            "Audit financial records"
+        ],
+        "answer": 1,
+        "explanation": "It transforms qualitative text into quantitative data by counting occurrences of words, themes, or images."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 82,
+        "question": "Which type of sampling ensures every member of the population has an equal chance of selection?",
+        "topic": "Media Research Methods",
+        "options": [
+            "Convenience sampling",
+            "Purposive sampling",
+            "Simple random sampling",
+            "Snowball sampling"
+        ],
+        "answer": 2,
+        "explanation": "Random sampling is the gold standard in quantitative research for eliminating selection bias."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 83,
+        "question": "In media research, a 'focus group' is a —",
+        "topic": "Media Research Methods",
+        "options": [
+            "Mathematical formula",
+            "Qualitative method involving a guided discussion with a small group of people",
+            "Camera lens technique",
+            "Type of survey questionnaire"
+        ],
+        "answer": 1,
+        "explanation": "It explores audience attitudes and emotional responses in depth by observing group dynamics and interactions."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 84,
+        "question": "The difference between qualitative and quantitative research in communication is —",
+        "topic": "Media Research Methods",
+        "options": [
+            "Qualitative explores meanings and experiences; quantitative measures numbers and statistics",
+            "Qualitative is only for TV; quantitative is for print",
+            "Qualitative is faster to conduct than quantitative",
+            "They are exactly the same"
+        ],
+        "answer": 0,
+        "explanation": "Quantitative research answers 'how many' (surveys), while qualitative answers 'why' and 'how' (interviews)."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 85,
+        "question": "'Reliability' in research methodology refers to —",
+        "topic": "Media Research Methods",
+        "options": [
+            "The truthfulness of the subjects",
+            "The consistency and repeatability of the research results",
+            "The cost of the research",
+            "Whether the research measures what it claims to measure"
+        ],
+        "answer": 1,
+        "explanation": "If a study is reliable, conducting it again under the same conditions will yield the same results."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 86,
+        "question": "An ethnographic study of media audiences focuses on —",
+        "topic": "Media Research Methods",
+        "options": [
+            "Sending email surveys",
+            "Immersing the researcher in the audience's natural environment to observe media consumption",
+            "Analyzing box office numbers",
+            "Reviewing historical archives"
+        ],
+        "answer": 1,
+        "explanation": "For example, if you observe how mass communication students at AMU consume news in their hostels, that is ethnographic research."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 87,
+        "question": "A 'hypothesis' in media research is best described as —",
+        "topic": "Media Research Methods",
+        "options": [
+            "The final conclusion of the study",
+            "A testable prediction about the relationship between variables",
+            "The raw data collected",
+            "The bibliography"
+        ],
+        "answer": 1,
+        "explanation": "It is an educated guess that the research study is designed to either prove or disprove."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 88,
+        "question": "Likert scale in survey research measures —",
+        "topic": "Media Research Methods",
+        "options": [
+            "The length of an article",
+            "Attitudes and degree of agreement (e.g., Strongly Agree to Strongly Disagree)",
+            "Audience age demographics",
+            "Internet bandwidth"
+        ],
+        "answer": 1,
+        "explanation": "It is the most widely used psychometric scale to quantify subjective feelings and opinions."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 89,
+        "question": "The term 'agenda-setting' research is best studied using which combination of methods?",
+        "topic": "Media Research Methods",
+        "options": [
+            "Content analysis of media and surveys of public opinion",
+            "Focus groups and ethnography",
+            "Historical review and participant observation",
+            "Laboratory experiments only"
+        ],
+        "answer": 0,
+        "explanation": "Researchers must first use content analysis to see what the media emphasizes, then use surveys to see what the public thinks is important."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 90,
+        "question": "In a media effects study, the 'independent variable' is the one that —",
+        "topic": "Media Research Methods",
+        "options": [
+            "The researcher manipulates to see its effect",
+            "The researcher measures as the outcome",
+            "Remains completely unknown",
+            "Is the audience's reaction"
+        ],
+        "answer": 0,
+        "explanation": "The independent variable is the cause (e.g., violent video games), and the dependent variable is the effect (e.g., aggressive behavior)."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 91,
+        "question": "The 'auteur theory' in film studies credits a film's artistic vision primarily to the —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Lead actor",
+            "Director",
+            "Producer",
+            "Screenwriter"
+        ],
+        "answer": 1,
+        "explanation": "Popularized by French critics in the 1950s, it argues that the director is the true 'author' of a film."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 92,
+        "question": "All India Radio (AIR) comes under which ministry?",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Ministry of Culture",
+            "Ministry of Telecommunications",
+            "Ministry of Information and Broadcasting",
+            "Ministry of Home Affairs"
+        ],
+        "answer": 2,
+        "explanation": "AIR is a division of Prasar Bharati, functioning under the MIB."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 93,
+        "question": "The term 'docu-drama' refers to a programme that —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Is a pure fictional comedy",
+            "Dramatizes actual historical events using actors",
+            "Is a live sports broadcast",
+            "Is an animated cartoon"
+        ],
+        "answer": 1,
+        "explanation": "It blends documentary factual elements with theatrical dramatic performances."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 94,
+        "question": "The Cinematograph Act in India grants powers of certification to —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Central Board of Film Certification (CBFC)",
+            "Film and Television Producers Guild",
+            "National Film Development Corporation",
+            "Ministry of IT"
+        ],
+        "answer": 0,
+        "explanation": "Under the Act of 1952, the CBFC is legally mandated to sanction films for public exhibition."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 95,
+        "question": "Stuart Hall's theory of 'encoding/decoding' in media is related to —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Digital file compression",
+            "Audience reception and how messages are interpreted differently based on cultural backgrounds",
+            "Writing computer code for TV",
+            "Radio transmission frequencies"
+        ],
+        "answer": 1,
+        "explanation": "Hall argued that audiences can adopt dominant, negotiated, or oppositional readings of a text."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 96,
+        "question": "'Hypodermic needle theory' of media effects suggests —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Audiences actively negotiate meaning",
+            "Media injects messages directly into a passive, defenceless audience",
+            "Media has absolutely no effect",
+            "Effects take decades to appear"
+        ],
+        "answer": 1,
+        "explanation": "Also known as the magic bullet theory, it was a 1930s paradigm viewing the audience as entirely passive."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 97,
+        "question": "The first Indian film to win an Academy Award (Oscar) was —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Mother India",
+            "Lagaan",
+            "Gandhi (Bhanu Athaiya for Best Costume Design)",
+            "Slumdog Millionaire"
+        ],
+        "answer": 2,
+        "explanation": "Bhanu Athaiya won India's first Oscar in 1983 for her costume design work on Richard Attenborough's 'Gandhi'."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 98,
+        "question": "The 'Frankfurt School' thinkers criticised mass media for —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "Being too expensive",
+            "Promoting capitalism, standardization, and pacifying the working class (Culture Industry)",
+            "Not producing enough entertainment",
+            "Using black and white film"
+        ],
+        "answer": 1,
+        "explanation": "Theorists like Adorno and Horkheimer argued that mass culture creates false psychological needs to sustain capitalism."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 99,
+        "question": "Prasar Bharati is the statutory body that oversees —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "All private news channels",
+            "Doordarshan and All India Radio",
+            "Print media circulation",
+            "Internet service providers"
+        ],
+        "answer": 1,
+        "explanation": "Established in 1997, it is India's largest public broadcasting agency."
+    },
+    {
+        "year": "2026",
+        "session": "June Expected",
+        "questionNumber": 100,
+        "question": "The concept of 'cultural imperialism' in media studies argues that —",
+        "topic": "Film, Radio, Television & Cultural Studies",
+        "options": [
+            "All cultures are equal in media representation",
+            "Western media dominates global communication and erodes local cultures",
+            "Media should be controlled by the military",
+            "Local traditions always overpower global media"
+        ],
+        "answer": 1,
+        "explanation": "It asserts that powerful Western nations use media and corporate power to impose their cultural values on developing nations."
+    }
+]
