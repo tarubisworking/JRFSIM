@@ -4,6 +4,7 @@
 const databaseFiles = [
     'questions.json',
     'questions2.json',
+    'questions3.json',
     // Example: Add your next files like this:
     // 'question2.json',
     // 'question3.json'
