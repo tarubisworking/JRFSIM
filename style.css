@@ -1,0 +1,37 @@
+.option-btn {
+    width: 100%;
+    text-align: left;
+    padding: 1rem;
+    border: 2px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background-color: #ffffff;
+    color: #374151;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.option-btn:hover:not(:disabled) {
+    border-color: #818cf8;
+    background-color: #e0e7ff;
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+}
+
+.option-correct {
+    background-color: #10b981 !important;
+    border-color: #10b981 !important;
+    color: white !important;
+}
+
+.option-wrong {
+    background-color: #f43f5e !important;
+    border-color: #f43f5e !important;
+    color: white !important;
+}
+
+.option-fade {
+    opacity: 0.6;
+}

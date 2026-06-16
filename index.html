@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UGC NET Master Simulator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans min-h-screen flex flex-col">
+    <nav class="bg-indigo-700 text-white shadow-md p-4 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">UGC NET Simulator</h1>
+            <div id="top-stats" class="space-x-4 text-sm font-semibold hidden md:block">
+                <span>Accuracy: <span id="nav-accuracy" class="text-indigo-200">0%</span></span>
+                <span>Completed: <span id="nav-completed" class="text-indigo-200">0</span></span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="max-w-7xl mx-auto flex flex-col md:flex-row py-8 px-4 gap-6 flex-grow w-full">
+        <aside class="w-full md:w-1/4 bg-white p-6 rounded-xl shadow-sm border border-gray-100 h-fit">
+            <h2 class="text-lg font-bold mb-4 border-b pb-2">Quiz Setup</h2>
+            
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 mb-1">Topic</label>
+                <select id="topic-select" class="w-full p-2 border rounded-md bg-gray-50">
+                    <option value="all">All Topics</option>
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 mb-1">Paper / Year</label>
+                <select id="year-select" class="w-full p-2 border rounded-md bg-gray-50">
+                    <option value="all">All Years</option>
+                </select>
+            </div>
+
+            <div class="mb-6">
+                <label class="block text-sm font-medium text-gray-700 mb-1">Focus</label>
+                <select id="focus-select" class="w-full p-2 border rounded-md bg-gray-50">
+                    <option value="all">Standard</option>
+                    <option value="incorrect">Previously Incorrect</option>
+                </select>
+            </div>
+
+            <button id="start-btn" class="w-full bg-indigo-600 text-white font-bold py-3 rounded-md hover:bg-indigo-700 transition shadow-md">
+                Start Timed Session
+            </button>
+        </aside>
+
+        <main class="w-full md:w-3/4 flex flex-col">
+            <div id="dashboard" class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-sm font-semibold">Total Attempted</h3>
+                    <p id="stat-total" class="text-3xl font-bold text-indigo-600">0</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-sm font-semibold">Global Accuracy</h3>
+                    <p id="stat-accuracy" class="text-3xl font-bold text-emerald-500">0%</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-sm font-semibold">Weakest Topic</h3>
+                    <p id="stat-weak" class="text-xl font-bold text-rose-500 mt-2">N/A</p>
+                </div>
+            </div>
+
+            <div id="quiz-container" class="bg-white p-8 rounded-xl shadow-md border border-gray-100 hidden relative flex-grow">
+                
+                <div class="flex justify-between items-center mb-6 border-b pb-4">
+                    <div class="flex flex-col">
+                        <span id="question-meta" class="text-xs font-bold text-indigo-500 uppercase tracking-wider">Dec 2012 | Communication</span>
+                        <span id="question-counter" class="text-sm font-semibold text-gray-500 mt-1">Question 1 / 50</span>
+                    </div>
+                    <div class="flex items-center gap-2 bg-gray-50 border px-4 py-2 rounded-full">
+                        <span class="text-gray-500 text-sm font-medium">Time Left:</span>
+                        <span id="timer-display" class="font-mono text-xl font-bold text-indigo-600">30s</span>
+                    </div>
+                </div>
+
+                <h2 id="question-text" class="text-xl md:text-2xl font-bold text-gray-800 mb-8 leading-relaxed"></h2>
+
+                <div id="options-container" class="space-y-3 mb-6">
+                    </div>
+
+                <div id="explanation-box" class="hidden bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6 animate-fade-in">
+                    <p id="explanation-text" class="text-blue-800 font-medium"></p>
+                </div>
+
+                <div id="action-bar" class="mt-8 flex justify-between hidden pt-4 border-t border-gray-100">
+                    <button id="end-btn" class="px-4 py-2 text-gray-500 hover:text-rose-500 font-medium transition">End Session Early</button>
+                    <button id="next-btn" class="px-8 py-3 bg-gray-800 text-white font-bold rounded-lg shadow-md hover:bg-gray-900 transition">Next Question ➔</button>
+                </div>
+            </div>
+            
+            <div id="result-screen" class="bg-white p-10 rounded-xl shadow-md border border-gray-100 hidden text-center my-auto">
+                <h2 class="text-3xl font-extrabold text-gray-800 mb-4">Practice Complete!</h2>
+                <div class="text-6xl mb-6 py-4">🎯</div>
+                <p class="text-xl text-gray-600 mb-2">Final Score</p>
+                <p id="session-score" class="font-bold text-5xl text-indigo-600 mb-8"></p>
+                <button onclick="location.reload()" class="mt-6 bg-indigo-600 hover:bg-indigo-700 text-white font-bold px-8 py-3 rounded-lg shadow-lg transition">Return to Dashboard</button>
+            </div>
+        </main>
+    </div>
+
+    <footer class="bg-white border-t py-6 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-gray-400 font-medium tracking-wide">Designed by <span class="text-indigo-500 font-bold">Tarub Bahar</span></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
